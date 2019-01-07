@@ -2,11 +2,11 @@
 A script that checks a for errors and vulnerability 
 This script assumes you have nmap installed on the system you are runnug it from. If you do not have nmap installed simply run 
 
-For Ubuntu:
+#####  For Ubuntu:
 
 ``` sudo apt-get install nmap ```
 
-For CentOs or Redhat:
+##### For CentOs or Redhat:
 
 ``` sudo apt-get install nmap ```
 
