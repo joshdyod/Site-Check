@@ -8,7 +8,7 @@ This script assumes you have nmap installed on the system you are runnug it from
 
 ##### For CentOs or Redhat:
 
-``` sudo apt-get install nmap ```
+``` sudo yum install nmap ```
 
 After you have installed nmap upload the file to your server, and navigate to it's location run the below command to give the file proper permissions. 
 
